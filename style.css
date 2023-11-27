@@ -49,6 +49,7 @@ header button{
     padding-left: 1px;
     cursor: pointer;
     border-radius: 50%;
+    margin-top:2%
 }
 header button:hover{
 background: grey;
