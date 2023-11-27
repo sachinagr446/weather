@@ -111,5 +111,6 @@ align-items: center;
     .container{
         width: 100%;
     }
-    
+    .body img{
+        width:300px;
 }
