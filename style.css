@@ -30,6 +30,7 @@ header{
   width: 100%;
   display: flex;
   justify-content: space-between;
+    align-items:center;
 }
 .search{
     background-color: rgb(248, 248, 248);
@@ -40,8 +41,8 @@ header{
     font-size: 20px;
 }
 header button{
-    height: 30px;
-    width: 30px;
+    height: 5vh;
+    width:5vh;
     background: none;
     /* border:solid 2px black; */
     border: none;
