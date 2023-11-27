@@ -39,6 +39,7 @@ header{
     width:fit-content;
     outline: none;
     font-size: 20px;
+    width:80%;
 }
 header button{
     height: 5vh;
@@ -112,5 +113,5 @@ align-items: center;
         width: 100%;
     }
     .body img{
-        width:300px;
+        width:250px;
 }
